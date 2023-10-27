@@ -111,3 +111,7 @@ Published on the [DailyStory blog](https://www.dailystory.com/blog/best-marketin
 *   [Digiday Programmatic Marketing Summit](https://digiday.com/events/) – Dec 2024
 *   [Email Insider Summit](https://www.mediapost.com/events/2024/) – Deer Valley, UT Dec 3-6
 *   [Search & Performance Insider Summit – MediaPost](https://www.mediapost.com/searchinsidersummit/) – Deer Valley, UT Dec 11-14
+
+## Past Lists
+
+- [Digital Marketing Conferences 2023](https://www.dailystory.com/blog/best-marketing-conferences-2023/)
