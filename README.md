@@ -58,7 +58,6 @@ Published on the [DailyStory blog](https://www.dailystory.com/blog/best-marketin
 *   [Digiday Programmatic Marketing Summit](https://digiday.com/events/) – May 2024
 
 ## June 2024
----------
 
 *   [AdMonsters OPs New York](https://www.admonsters.com/conferences-and-events/) – New York, NY Jun 2024
 *   [Pubcon](https://pubpubcon.com/) – TBC Jun 17- 19
@@ -66,7 +65,7 @@ Published on the [DailyStory blog](https://www.dailystory.com/blog/best-marketin
 *   [Influencer Marketing World](https://www.influencermarketing-conference.com/global/) – London, UK Jun 2024
 *   [DigiMarCon Southeast](https://digimarconsoutheast.com/) – Atlanta, GA Jun 2024
 
-July 2024
+## July 2024
 
 *   [Asia/Pacific News Media Summit](https://www.inma.org/modules/event/2023AsiaPacificSummit/index.html) – Virtual July 2024
 
